@@ -4,7 +4,7 @@
 
 - 😄 I’m becoming a fullstack developer.
 - 📚 Driven Education Bootcam Student
-- 📚 3rd Semester Systems Development and Analysis
+- 📚 3rd semester Systems Development and Analysis
 - 🌱 I’m currently learning JStack...
 
 
