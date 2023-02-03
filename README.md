@@ -5,14 +5,14 @@
 </div>
 
 
-### Hello 👋
+## Olá, eu sou Filipe Tenedini 👋
 
 
 
-- 😄 I’m becoming a fullstack developer.
-- 📚 <a href="https://www.driven.com.br/" target="_blank">Driven</a> Education Bootcamp Student
-- 📚 3rd semester Systems Development and Analysis
-- 🌱 I’m currently learning JStack...
+- 😄 Estou estudando para me tornar um Desenvolvedor Fullstack.
+- 📚 Estudante da <a href="https://www.driven.com.br/" target="_blank">Driven Education</a> Bootcamp
+- 📚 3° Semestre da faculdade de Análise e Desenvolvimento de Sistemas
+- 🌱 Atualmente estou aprendeendo sobre a JStack...
 
 
 <div align="center" style="display: inline_block"><br>
@@ -28,7 +28,7 @@
 
 <br>
 
- - #### 📫 How to reach me:
+ - #### 📫 Me encontre:
 <br>
 <div> 
   <a href="https://www.linkedin.com/in/filipe-tenedini-1532061b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
