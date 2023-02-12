@@ -11,7 +11,7 @@
 
 - 😄 Estou estudando para me tornar um Desenvolvedor Fullstack.
 - 📚 Estudante da <a href="https://www.driven.com.br/" target="_blank">Driven Education</a> Bootcamp
-- 📚 3° Semestre da faculdade de Análise e Desenvolvimento de Sistemas
+- 📚 3° Semestre na faculdade de Análise e Desenvolvimento de Sistemas do Senac RS
 - 🌱 Atualmente estou aprendeendo sobre a JStack...
 
 
