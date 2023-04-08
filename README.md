@@ -1,10 +1,3 @@
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=DEV+FULLSTACK+EM+FORMAÇÃO)](https://git.io/typing-svg)
-
-</div>
-
-
 ## Olá, eu sou Filipe Tenedini 👋
 
 
