@@ -8,7 +8,7 @@
 
 
 <div align="center" style="display: inline_block"><br>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img align="center" alt="lipe-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img align="center" alt="lipe-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
   <a href="https://www.typescriptlang.org/docs/"><img align="center" alt="lipe-Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <a href="https://react.dev/"><img align="center" alt="lipe-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <a href="https://www.mongodb.com/"><img align="center" alt="lipe-MongoDB" height="40" width="50"  src="https://img.icons8.com/color/512/mongodb.png"></a>
