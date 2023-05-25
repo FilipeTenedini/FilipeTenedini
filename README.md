@@ -2,7 +2,7 @@
 
 
 
-- 😄 Desenvolvedor Fullstack.
+- 😄 Desenvolvedor FullStack.
 - 📚 3° Semestre na faculdade de Análise e Desenvolvimento de Sistemas do Senac RS
 - 🌱 Atualmente estou aprendendo sobre:
 
