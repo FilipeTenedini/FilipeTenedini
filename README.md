@@ -3,7 +3,6 @@
 
 
 - 😄 Desenvolvedor FullStack.
-- 📚 4° Semestre na faculdade de Análise e Desenvolvimento de Sistemas do Senac RS
 - 🌱 Atualmente estou aprendendo sobre:
 
 
