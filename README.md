@@ -1,7 +1,5 @@
 ## Olá, eu sou Filipe Tenedini 👋
 
-
-
 - 😄 Desenvolvedor FullStack.
 - 🎯 Focado em:
 
@@ -28,3 +26,5 @@
 <div> 
   <a href="https://www.linkedin.com/in/filipe-tenedini-1532061b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+### 💼 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img align="center" alt="lipe-Js" height="80" width="270" src="https://app.smarttbot.com/assets/f3578e1d6ad52f3c85e9ec50408d166c.png"></a>
