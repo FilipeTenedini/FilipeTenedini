@@ -2,7 +2,8 @@
 
 ### Desenvolvedor FullStack
 
-- Motivado por novos aprendizados, atualmente estou cursando Análise e Desenvolvimento de Sistemas e desenvolvendo um blog para falar sobre desenvolvimento.
+- Motivado por novos aprendizados, atualmente estou cursando Análise e Desenvolvimento de Sistemas aonde aprendi sobre diversos assuntos como algoritmos e estruturas de dados, desenvolvimento ágil, arquitetura de software entre outros. Curso esse com formação prevista para 2024.
+- Atualmente estou trabalhando no desenvolvimento de um blog sobre desenvolvimento.
 
 <hr/>
 <h3 align="left">Conecte comigo!</h3>
