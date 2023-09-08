@@ -1,6 +1,6 @@
 ## Olá, eu sou Filipe Tenedini. 
 
-### Desenvolvedor FullStack Motivado por novos aprendizados 👋
+### Desenvolvedor FullStack
 
 <hr/>
 <h3 align="left">Conecte comigo!</h3>
