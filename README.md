@@ -1,14 +1,26 @@
-## Olá, eu sou Filipe Tenedini 👋
+## Olá, eu sou Filipe Tenedini. 
 
-- 😄 Desenvolvedor FullStack.
-- 🎯 Focado em:
+### Desenvolvedor FullStack
+#### Motivado por novos aprendizados 👋
 
-<h3 align="left">Conecte comigo!</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/filipe-tenedini/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="filipe-tenedini" height="30" width="40" /></a>
-</p>
 <hr/>
-<h3>Linguagens e Ferramentas Atuais</h3>
+<h3 align="left">Conecte comigo!</h3>
+<div align="left">
+  <a href="https://www.linkedin.com/in/filipe-tenedini/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="filipe-tenedini" height="30" width="40" /></a>
+</div>
+<br>
+<div style="margin-top:20;">
+  <a
+    href="mailto:tenedinifilipe@gmail.com"
+    align="center"
+  >
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
+      target="_blank">
+  </a>
+</div>
+
+<hr/>
+<h3>Linguagens e Ferramentas Atuais 🎯</h3>
 <table>
   <tbody>
     <tr>
