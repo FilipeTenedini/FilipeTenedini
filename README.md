@@ -2,6 +2,8 @@
 
 ### Desenvolvedor FullStack
 
+- Motivado por novos aprendizados, atualmente estou cursando Análise e Desenvolvimento de Sistemas e desenvolvendo um blog para falar sobre desenvolvimento.
+
 <hr/>
 <h3 align="left">Conecte comigo!</h3>
 <div align="left">
