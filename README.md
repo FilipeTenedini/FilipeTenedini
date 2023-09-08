@@ -3,28 +3,140 @@
 - 😄 Desenvolvedor FullStack.
 - 🎯 Focado em:
 
-
-<div align="center" style="display: inline_block"><br>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img align="center" alt="lipe-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
-  <a href="https://www.typescriptlang.org/docs/"><img align="center" alt="lipe-Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <a href="https://react.dev/"><img align="center" alt="lipe-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <a href="https://nodejs.org/en/docs"><img align="center" alt="lipe-Node" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></a>
-  <a href="https://docs.python.org/3/"><img align="center" alt="lipe-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
-  <a href="https://www.mongodb.com/"><img align="center" alt="lipe-MongoDB" height="40" width="50"  src="https://img.icons8.com/color/512/mongodb.png"></a>
-  <a href="https://www.postgresql.org/"><img align="center" alt="lipe-PostgreSQL" height="40" width="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"></a>
-  <a href="https://www.prisma.io/"><img align="center" alt="lipe-PrismaOrm" height="40" width="50"  src="https://storage.googleapis.com/eti-academy/courses/curso-de-nestjs-com-prisma-orm.png"></a>
-  <a href="https://jestjs.io/pt-BR/"><img align="center" alt="lipe-Jest" height="40" width="50"  src="https://miro.medium.com/v2/resize:fit:600/1*i37IyHf6vnhqWIA9osxU3w.png"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img align="center" alt="lipe-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img align="center" alt="lipe-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
-  <a href=""><img align="center" alt="lipe-linux" height="40" width="50" src="https://camo.githubusercontent.com/5827f82f2c2d9c5bad33de64e073659d1a57032b31009b8127189be6876916d4/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6c696e75782f6c696e75782d6f726967696e616c2e737667"> </a>
-</div>
-
-<br>
-
- - #### 📫 Me encontre:
-<br>
-<div> 
-  <a href="https://www.linkedin.com/in/filipe-tenedini-1532061b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
-### 💼 <a href="https://smarttbot.com/"><img align="center" alt="lipe-Js" height="80" width="270" src="https://app.smarttbot.com/assets/f3578e1d6ad52f3c85e9ec50408d166c.png"></a>
+<h3 align="left">Conecte comigo!</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/filipe-tenedini/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="filipe-tenedini" height="30" width="40" /></a>
+</p>
+<hr/>
+<h3>Linguagens e Ferramentas Atuais</h3>
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+          height="40"
+          alt="javascript logo"
+        />
+        <img width="12" /> Javascript
+      </td>
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+          height="40"
+          alt="typescript logo"
+        />
+        <img width="12" /> Typescript
+      </td>
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+          height="40"
+          alt="react logo"
+        />
+        <img width="12" /> React
+      </td>
+      <td>
+        <img
+          src="https://cdn.simpleicons.org/tailwindcss/06B6D4"
+          height="40"
+          alt="tailwindcss logo"
+        />
+        <img width="12" /> Tailwindcss
+      </td>
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+          height="40"
+          alt="nodejs logo"
+        />
+        <img width="12" /> Node.js
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img
+          src="https://skillicons.dev/icons?i=express"
+          height="40"
+          alt="express logo"
+        />
+        <img width="12" /> Express
+      </td>
+      <td>
+        <img
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg"
+          alt="nestjs"
+          width="40"
+          height="40"
+        />
+        <img width="12" /> NestJS
+      </td>
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+          height="40"
+          alt="git logo"
+        />
+        <img width="12" /> Git
+      </td>
+      <td>
+        <img
+          src="https://skillicons.dev/icons?i=linux"
+          height="40"
+          alt="linux logo"
+        />
+        <img width="12" /> Linux
+      </td>
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
+          height="40"
+          alt="docker logo"
+        />
+        <img width="12" /> Docker
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
+          height="40"
+          alt="postgresql logo"
+        />
+        <img width="12" /> Postgresql
+      </td>
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"
+          height="40"
+          alt="redis logo"
+        />
+        <img width="12" /> Redis
+      </td>
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+          height="40"
+          alt="mongodb logo"
+        />
+        <img width="12" /> MongoDB
+      </td>
+      <td>
+        <img 
+          align="center"
+          alt="prisma orm logo"
+          height="40"
+          src="https://storage.googleapis.com/eti-academy/courses/curso-de-nestjs-com-prisma-orm.png">
+        <img width="12" /> Prisma ORM
+      </td>
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"
+          height="40"
+          alt="jest logo"
+        />
+        <img width="12" /> Jest
+      </td>
+    </tr>
+  </tbody>
+</table>
