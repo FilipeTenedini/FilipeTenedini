@@ -53,6 +53,14 @@
       </td>
       <td>
         <img
+          src="https://skillicons.dev/icons?i=nextjs"
+          height="40"
+          alt="nextjs logo"
+        />
+        <img width="12" /> Next.js
+      </td>
+      <td>
+        <img
           src="https://cdn.simpleicons.org/tailwindcss/06B6D4"
           height="40"
           alt="tailwindcss logo"
