@@ -54,18 +54,10 @@
       <td>
         <img
           src="https://skillicons.dev/icons?i=nextjs"
-          height="40"
+          height="40
           alt="nextjs logo"
         />
         <img width="12" /> Next.js
-      </td>
-      <td>
-        <img
-          src="https://cdn.simpleicons.org/tailwindcss/06B6D4"
-          height="40"
-          alt="tailwindcss logo"
-        />
-        <img width="12" /> Tailwindcss
       </td>
       <td>
         <img
@@ -77,6 +69,22 @@
       </td>
     </tr>
     <tr>
+      <td>
+        <img
+          src="https://cdn.simpleicons.org/tailwindcss/06B6D4"
+          height="40"
+          alt="tailwindcss logo"
+        />
+        <img width="12" /> Tailwindcss
+      </td>
+      <td>
+        <img
+          src="https://miro.medium.com/v2/resize:fit:480/1*Iohnw2aOQ5EBghVoqKA7VA.png"
+          height="40"
+          alt="tailwindcss logo"
+        />
+        <img width="12" /> Styled Components
+      </td>
       <td>
         <img
           src="https://skillicons.dev/icons?i=express"
@@ -102,6 +110,8 @@
         />
         <img width="12" /> Git
       </td>
+    </tr>
+    <tr>
       <td>
         <img
           src="https://skillicons.dev/icons?i=linux"
@@ -118,8 +128,6 @@
         />
         <img width="12" /> Docker
       </td>
-    </tr>
-    <tr>
       <td>
         <img
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
@@ -127,14 +135,6 @@
           alt="postgresql logo"
         />
         <img width="12" /> Postgresql
-      </td>
-      <td>
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"
-          height="40"
-          alt="redis logo"
-        />
-        <img width="12" /> Redis
       </td>
       <td>
         <img
@@ -152,7 +152,17 @@
           src="https://storage.googleapis.com/eti-academy/courses/curso-de-nestjs-com-prisma-orm.png">
         <img width="12" /> Prisma ORM
       </td>
+    </tr>
+    <tr>
       <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"
+          height="40"
+          alt="redis logo"
+        />
+        <img width="12" /> Redis
+      </td>
+      <td>      
         <img
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"
           height="40"
