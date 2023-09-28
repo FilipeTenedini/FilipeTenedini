@@ -17,7 +17,7 @@
     href="mailto:tenedinifilipe@gmail.com"
     align="center"
   >
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
+    <img src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-1-1.png" height="20" width="100"
       target="_blank">
   </a>
 </div>
