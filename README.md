@@ -172,5 +172,3 @@
   </tbody>
 </table>
 
-
-### 💼 <a href="https://smarttbot.com/"><img align="center" alt="lipe-Js" height="60" width="220" src="https://bioflore.com.br/wp-content/uploads/2023/03/bioflore-logo-completo.webp"></a>
