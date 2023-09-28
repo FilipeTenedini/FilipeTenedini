@@ -175,4 +175,4 @@
 </table>
 
 
-### 💼 <a href="https://smarttbot.com/"><img align="center" alt="lipe-Js" height="60" width="220" src="https://app.smarttbot.com/assets/f3578e1d6ad52f3c85e9ec50408d166c.png"></a>
+### 💼 <a href="https://smarttbot.com/"><img align="center" alt="lipe-Js" height="60" width="220" src="https://bioflore.com.br/wp-content/uploads/2023/03/bioflore-logo-completo.webp"></a>
