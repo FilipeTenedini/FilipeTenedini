@@ -93,7 +93,7 @@
       </td>
       <td>
         <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg"
+          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY9Frh6sOKNzTZ1bJmT3CmjvjfBoid-Dehb0Oe57brXg&s"
           alt="nestjs"
           width="40"
           height="40"
@@ -102,11 +102,12 @@
       </td>
       <td>
         <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+          src="https://miro.medium.com/v2/resize:fit:600/1*i2skbfmDsHayHhqPfwt6pA.png"
+          alt="golang"
+          width="40"
           height="40"
-          alt="git logo"
         />
-        <img width="12" /> Git
+        <img width="12" /> Golang
       </td>
     </tr>
     <tr>
@@ -152,6 +153,14 @@
       </td>
     </tr>
     <tr>
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+          height="40"
+          alt="git logo"
+        />
+        <img width="12" /> Git
+      </td>
       <td>
         <img
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"
