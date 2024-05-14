@@ -5,22 +5,7 @@
 - Motivado por novos aprendizados, atualmente estou cursando Análise e Desenvolvimento de Sistemas aonde aprendi sobre diversos assuntos como algoritmos e estruturas de dados, desenvolvimento ágil, arquitetura de software entre outros. Curso esse com formação prevista para 2024.
 
 <hr/>
-<h3 align="left">Conecte comigo!</h3>
-<div align="left">
-  <a href="https://www.linkedin.com/in/filipe-tenedini/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="filipe-tenedini" height="30" width="40" /></a>
-</div>
-<br>
-<div style="margin-top:20;">
-  <a
-    href="mailto:tenedinifilipe@gmail.com"
-    align="center"
-  >
-    <img src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-1-1.png" height="20" width="100"
-      target="_blank">
-  </a>
-</div>
 
-<hr/>
 <h3>Linguagens e Ferramentas Atuais 🎯</h3>
 <table>
   <tbody>
