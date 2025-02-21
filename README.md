@@ -87,12 +87,12 @@
       </td>
       <td>
         <img
-          src="https://miro.medium.com/v2/resize:fit:600/1*i2skbfmDsHayHhqPfwt6pA.png"
-          alt="golang"
+          src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Rustacean-orig-noshadow.svg/512px-Rustacean-orig-noshadow.svg.png?20220509231635"
+          alt="Rust"
           width="40"
           height="40"
         />
-        <img width="12" /> Golang
+        <img width="12" /> Rust
       </td>
     </tr>
     <tr>
