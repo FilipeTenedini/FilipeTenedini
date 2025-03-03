@@ -2,7 +2,9 @@
 
 ### Desenvolvedor FullStack
 
-- Motivado por novos aprendizados, atualmente estou cursando Análise e Desenvolvimento de Sistemas aonde aprendi sobre diversos assuntos como algoritmos e estruturas de dados, desenvolvimento ágil, arquitetura de software entre outros. Curso esse com formação prevista para 2024.
+- Motivado por novos aprendizados
+- Formado Análise e Desenvolvimento de Sistemas aonde aprendi sobre diversos assuntos como algoritmos e estruturas de dados, desenvolvimento ágil, engenharia, arquitetura de software, entre outros
+- Constantemente fazendo cursos e conquistando novas habilidades
 
 <hr/>
 
@@ -87,23 +89,14 @@
       </td>
       <td>
         <img
-          src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Rustacean-orig-noshadow.svg/512px-Rustacean-orig-noshadow.svg.png?20220509231635"
-          alt="Rust"
-          width="40"
-          height="40"
-        />
-        <img width="12" /> Rust
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img
           src="https://skillicons.dev/icons?i=linux"
           height="40"
           alt="linux logo"
         />
         <img width="12" /> Linux
       </td>
+    </tr>
+    <tr>
       <td>
         <img
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
@@ -164,5 +157,33 @@
       </td>
     </tr>
   </tbody>
+</table>
+
+
+## Atualmente estudando:
+
+<table>
+  <tbody>
+<tr>
+<td>
+  <img
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Rustacean-orig-noshadow.svg/512px-Rustacean-orig-noshadow.svg.png?20220509231635"
+    alt="Rust"
+    width="40"
+    height="40"
+  />
+  <img width="12" />   Rust
+</td>
+<td>
+  <img
+    src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png"
+    alt="Aws"
+    width="40"
+    height="40"
+  />
+  <img width="12" />   AWS
+</td>
+</tr>
+</tbody>
 </table>
 
