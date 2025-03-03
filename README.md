@@ -129,6 +129,14 @@
           src="https://storage.googleapis.com/eti-academy/courses/curso-de-nestjs-com-prisma-orm.png">
         <img width="12" /> Prisma ORM
       </td>
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"
+          height="40"
+          alt="redis logo"
+        />
+        <img width="12" /> Redis
+      </td>
     </tr>
     <tr>
       <td>
@@ -138,14 +146,6 @@
           alt="git logo"
         />
         <img width="12" /> Git
-      </td>
-      <td>
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"
-          height="40"
-          alt="redis logo"
-        />
-        <img width="12" /> Redis
       </td>
       <td>      
         <img
