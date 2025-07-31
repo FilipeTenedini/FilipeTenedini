@@ -155,6 +155,15 @@
         />
         <img width="12" /> Jest
       </td>
+      <td>
+  <img
+    src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png"
+    alt="Aws"
+    width="40"
+    height="40"
+  />
+  <img width="12" />   AWS
+</td>
     </tr>
   </tbody>
 </table>
@@ -173,15 +182,6 @@
     height="40"
   />
   <img width="12" />   Rust
-</td>
-<td>
-  <img
-    src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png"
-    alt="Aws"
-    width="40"
-    height="40"
-  />
-  <img width="12" />   AWS
 </td>
 </tr>
 </tbody>
