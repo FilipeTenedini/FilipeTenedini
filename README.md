@@ -168,22 +168,3 @@
   </tbody>
 </table>
 
-
-## Atualmente estudando:
-
-<table>
-  <tbody>
-<tr>
-<td>
-  <img
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Rustacean-orig-noshadow.svg/512px-Rustacean-orig-noshadow.svg.png?20220509231635"
-    alt="Rust"
-    width="40"
-    height="40"
-  />
-  <img width="12" />   Rust
-</td>
-</tr>
-</tbody>
-</table>
-
